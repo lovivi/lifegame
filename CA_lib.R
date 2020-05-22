@@ -46,4 +46,7 @@ for (k in 1:5000) {
   # A <- sparseMatrix(i = live_id[,1],j =  live_id[,2], x = rep(1,nrow(live_id)))   
   # heatmap(as.matrix(A), Rowv = NA, Colv = NA,main=k)
 }
+<<<<<<< HEAD
 ##
+=======
+>>>>>>> a6f2f4de03c81679f49375ebf8c72ddc9790c10b
